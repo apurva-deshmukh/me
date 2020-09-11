@@ -28,6 +28,7 @@ export default class Sidebar extends Component {
                 <i className='icon-mail'></i> aadeshmukh13@gmail.com
               </span>
             </div>
+            <br></br>
             <nav id='colorlib-main-menu' role='navigation' className='navbar'>
               <div id='navbar' className='collapse'>
                 <ul>
@@ -91,25 +92,15 @@ export default class Sidebar extends Component {
                 </li>
               </ul>
             </nav>
+            <br></br>
+            <br></br>
+            <br></br>
             <div className='colorlib-footer'>
               <p>
                 <small>
                   Made with <i className='icon-heart' aria-hidden='true' /> and{" "}
                   <i className='icon-beer' aria-hidden='true'></i>
-                  <br></br>
-                  Thanks{" "}
-                  <a
-                    href='https://colorlib.com'
-                    target='_blank'
-                    rel='noopener noreferrer'
-                  >
-                    Colorlib
-                  </a>{" "}
-                  for inspiration
                 </small>
-              </p>
-              <p>
-                <small>Something coming soon !!</small>
               </p>
             </div>
           </aside>
