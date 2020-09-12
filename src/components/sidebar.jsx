@@ -101,6 +101,8 @@ export default class Sidebar extends Component {
                   Made with <i className='icon-heart' aria-hidden='true' /> and{" "}
                   <i className='icon-beer' aria-hidden='true'></i>
                 </small>
+                <br></br>
+                <small>More coming soon!</small>
               </p>
             </div>
           </aside>
