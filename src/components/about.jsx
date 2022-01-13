@@ -17,14 +17,15 @@ export default class About extends Component {
                       <span className='heading-meta'>About Me</span>
                       <h2 className='colorlib-heading'>Who Am I?</h2>
                       <p>
-                        I am an undergraduate student majoring in Computer
-                        Engineering at the Georgia Institute of Technology.
-                        While my coursework is heavily focused around embedded
-                        systems and programming in C/C++/Java, I am extremely
+                        Currently, I am a software engineer at NCR Corporation
+                        where I develop Point-Of-Sale (POS) systems for iOS for
+                        small businesses to run their store. Before that, I was an
+                        undergraduate student majoring in Computer Engineering
+                        at the Georgia Institute of Technology. I am extremely
                         passionate about mobile application development,
-                        particularly iOS development in Swift. Currently, I am
-                        involved in building mobile applications for two
-                        different startups founded out of Georgia Tech's
+                        particularly iOS development in Swift. Throughout my college
+                        years, I was heavily involved in building mobile applications
+                        for two different startups founded out of Georgia Tech's
                         CREATE-X program.
                       </p>
                       <p>
@@ -34,7 +35,7 @@ export default class About extends Component {
                         Certification and am learning about data science and
                         machine learning in Python. When I'm not sitting in
                         front of a computer, I enjoy playing soccer and
-                        basketball, cooking, and hiking.
+                        basketball, video games, cooking, and hiking.
                       </p>
                     </div>
                   </div>
