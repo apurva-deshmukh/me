@@ -19,10 +19,10 @@ export default class About extends Component {
                       <p>
                         Currently, I am a software engineer at NCR Corporation
                         where I develop Point-Of-Sale (POS) systems for iOS for
-                        small businesses to run their store. Before that, I was an
-                        undergraduate student majoring in Computer Engineering
-                        at the Georgia Institute of Technology. I am extremely
-                        passionate about mobile application development,
+                        small businesses to run their store. I graduated with
+                        Highest Honors from Georgia Tech in December 2020 with
+                        a Bachelor's of Science in Computer Engineering. I am
+                        extremely\ passionate about mobile application development,
                         particularly iOS development in Swift. Throughout my college
                         years, I was heavily involved in building mobile applications
                         for two different startups founded out of Georgia Tech's
