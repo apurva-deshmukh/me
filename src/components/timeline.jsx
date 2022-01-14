@@ -29,7 +29,7 @@ export default class Timeline extends Component {
                       <div className='timeline-label'>
                         <h2>
                           Software Developer at NCR{"  "}
-                          <span>June 2020 - Present</span>
+                          <span>February 2021 - Present</span>
                         </h2>
                         <p>
                           At NCR, I work mainly as an iOS developer improving and
@@ -59,7 +59,7 @@ export default class Timeline extends Component {
                       <div className='timeline-label'>
                         <h2>
                           React Native/Flutter Developer at FullCircle LLC{"  "}
-                          <span>September 2020 - Present</span>
+                          <span>September 2020 - December 2020</span>
                         </h2>
                         <p>
                           I have recently joined FullCircle LLC as a React
@@ -99,7 +99,7 @@ export default class Timeline extends Component {
                       <div className='timeline-label'>
                         <h2>
                           iOS Developer at 808{"  "}
-                          <span>June 2020 - Present</span>
+                          <span>June 2020 - December 2020</span>
                         </h2>
                         <p>
                           The 808 Wave (or 808) is a startup focused on creating
