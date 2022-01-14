@@ -18,6 +18,36 @@ export default class Timeline extends Component {
             <div className='row'>
               <div className='col-md-12'>
                 <div className='timeline-centered'>
+                <article
+                    className='timeline-entry animate-box'
+                    data-animate-effect='fadeInTop'
+                  >
+                    <div className='timeline-entry-inner'>
+                      <div className='timeline-icon color-2'>
+                        <i className='icon-pen2' />
+                      </div>
+                      <div className='timeline-label'>
+                        <h2>
+                          Software Developer at NCR{"  "}
+                          <span>June 2020 - Present</span>
+                        </h2>
+                        <p>
+                          At NCR, I work mainly as an iOS developer improving and
+                          developing key features for a point-of-sale iOS system
+                          (NCR Silver) which is used by many small businesses
+                          to run their store across the country. Another aspect of
+                          my job includes directly assist customers with any escalations
+                          across all Silver products by utilizing Microsoft SQL Server
+                          to find discrepancies in the database, running SQL scripts
+                          to resolve the issues, and relaying the solution back to
+                          the support team and the customers. I have also created many
+                          automation tests in Java using the TestNG framework for
+                          the iOS POS app, which are built using Apache Maven and are
+                          run on an iOS device farm from the Jenkins automation server.
+                        </p>
+                      </div>
+                    </div>
+                  </article>
                   <article
                     className='timeline-entry animate-box'
                     data-animate-effect='fadeInLeft'
@@ -28,12 +58,12 @@ export default class Timeline extends Component {
                       </div>
                       <div className='timeline-label'>
                         <h2>
-                          React Native Developer at FullCircle LLC{"  "}
+                          React Native/Flutter Developer at FullCircle LLC{"  "}
                           <span>September 2020 - Present</span>
                         </h2>
                         <p>
                           I have recently joined FullCircle LLC as a React
-                          Native Developer in the Application Development team.
+                          Native/Flutter Developer in the Application Development team.
                           FullCircle LLC is a startup that is focused on
                           breaking the stigma around mental health. My main
                           responsibility involves architecting, maintaining, and
