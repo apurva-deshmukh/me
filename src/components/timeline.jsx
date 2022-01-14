@@ -62,14 +62,14 @@ export default class Timeline extends Component {
                           <span>September 2020 - December 2020</span>
                         </h2>
                         <p>
-                          I have recently joined FullCircle LLC as a React
+                          I joined FullCircle LLC as a React
                           Native/Flutter Developer in the Application Development team.
                           FullCircle LLC is a startup that is focused on
                           breaking the stigma around mental health. My main
-                          responsibility involves architecting, maintaining, and
+                          responsibility involved architecting, maintaining, and
                           deploying a mobile application that will be used by
                           students wanting to improve their mental health.
-                          Additional responsibilities include assisting with
+                          Additional responsibilities included assisting with
                           integrating third party API's and AI/ML algorithms
                           that are used to determine a user's mental health
                           score and assisting with developing and maintaining
@@ -108,14 +108,14 @@ export default class Timeline extends Component {
                           first iOS Developer in this company, I was tasked with
                           creating an app programmatically in Swift from scratch
                           using UIKit, Auto-Layout, and MVVM architecture. My
-                          responsibilities include developing all aspects of the
+                          responsibilities included developing all aspects of the
                           app including the user profile, the studio map, in-app
                           messaging, and our unique "Create a Project" feature.
-                          Currently, we are utilizing TestFlight for the first
-                          round of user testing. In terms of leadership, I am
-                          responsible for leading meetings for the Swift team
-                          and representing the Swift team at full team meetings.
-                          For more information about the startup, click the link{" "}
+                          We utilized TestFlight for the first round of user testing.
+                          In terms of leadership, I was responsible for leading
+                          meetings for the Swift team and representing the Swift
+                          team at full team meetings. For more information about
+                          the startup, click the link{" "}
                           <a
                             href='https://www.the808wave.com/'
                             target='_blank'
