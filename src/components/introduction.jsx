@@ -18,16 +18,17 @@ export default class Introduction extends Component {
                     <div className='col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text'>
                       <div className='slider-text-inner js-fullheight'>
                         <div className='desc'>
-                          <h1>
+                          <h1 style={{color: "white"}}>
                             Hi! <br />
                             I'm Apurva
                           </h1>
                           <p>
                             <a
                               className='btn btn-primary btn-learn'
-                              href='https://drive.google.com/file/d/1nOEM7Pz5vxCfy7sTpz6aEAoKS9tisuT0/view?usp=sharing'
+                              href='https://drive.google.com/file/d/1VGjcUfxYVBkDMfLCn_ClWvw3jKkER4lt/view?usp=sharing'
                               target='_blank'
                               rel='noopener noreferrer'
+                              style={{color: "white", borderColor: "white"}}
                             >
                               View Resume
                               <i className='icon-download4' />
@@ -46,7 +47,7 @@ export default class Introduction extends Component {
                     <div className='col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text'>
                       <div className='slider-text-inner'>
                         <div className='desc'>
-                          <h1>
+                          <h1 style={{color: "white"}}>
                             I am a
                             <br /> Software Developer.
                           </h1>
@@ -56,6 +57,7 @@ export default class Introduction extends Component {
                               href='https://github.com/apurva-deshmukh'
                               target='_blank'
                               rel='noopener noreferrer'
+                              style={{color: "white", borderColor: "white"}}
                             >
                               View Projects <i className='icon-briefcase3' />
                             </a>
