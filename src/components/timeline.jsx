@@ -23,6 +23,34 @@ export default class Timeline extends Component {
                     data-animate-effect='fadeInTop'
                   >
                     <div className='timeline-entry-inner'>
+                      <div className='timeline-icon color-1'>
+                        <i className='icon-pen2' />
+                      </div>
+                      <div className='timeline-label'>
+                        <h2>
+                          Virtual Stock App{"  "}
+                          <span>February 2022 - Present</span>
+                        </h2>
+                        <p>
+                          The Virtual Stock App is a personal project that
+                          I am currently working on. Using React Native, our idea
+                          is to create a stock market application, similar to Robinhood,
+                          without the user having to worry about the inherent risks
+                          of trading stocks. This will serve as an educational tool
+                          for students and others who want to learn more about the stock
+                          market. For this project, I am responsible for all aspects of
+                          app development, including modifying Figma designs, creating UI
+                          elements, implementing business logic, integrating third party APIs,
+                          and deploying the application
+                        </p>
+                      </div>
+                    </div>
+                  </article>
+                <article
+                    className='timeline-entry animate-box'
+                    data-animate-effect='fadeInTop'
+                  >
+                    <div className='timeline-entry-inner'>
                       <div className='timeline-icon color-2'>
                         <i className='icon-pen2' />
                       </div>
@@ -35,8 +63,11 @@ export default class Timeline extends Component {
                           At NCR, I work mainly as an iOS developer improving and
                           developing key features for a point-of-sale iOS system
                           (NCR Silver) which is used by many small businesses
-                          to run their store across the country. Another aspect of
-                          my job includes directly assist customers with any escalations
+                          to run their store across the country. Currently, I am
+                          spearheading a newly developed, internal Flutter application
+                          that encourages NCR employees to check-in to restaurants,
+                          refer sales leads, and escalate incidents. Another aspect of
+                          my job includes directly assisting customers with any escalations
                           across all Silver products by utilizing Microsoft SQL Server
                           to find discrepancies in the database, running SQL scripts
                           to resolve the issues, and relaying the solution back to
@@ -74,7 +105,9 @@ export default class Timeline extends Component {
                           that are used to determine a user's mental health
                           score and assisting with developing and maintaining
                           cloud functions for authentication, storage, and
-                          analytics. For more information about the startup,
+                          analytics. As a result of this work, hundreds of university
+                          students are able to talk openly about their mental health
+                          in a space space. For more information about the startup,
                           click the link{" "}
                           <a
                             href='https://www.teamfullcircle.org'

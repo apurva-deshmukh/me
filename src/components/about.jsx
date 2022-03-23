@@ -22,7 +22,7 @@ export default class About extends Component {
                         small businesses to run their store. I graduated with
                         Highest Honors from Georgia Tech in December 2020 with
                         a Bachelor's of Science in Computer Engineering. I am
-                        extremely\ passionate about mobile application development,
+                        extremely passionate about mobile application development,
                         particularly iOS development in Swift. Throughout my college
                         years, I was heavily involved in building mobile applications
                         for two different startups founded out of Georgia Tech's
@@ -65,8 +65,8 @@ export default class About extends Component {
                     <h3>Mobile Development </h3>
                     <p>
                       I have experience building mobile apps in Swift, SwiftUI,
-                      React Native, and Java through personal projects and
-                      startup experience.
+                      React Native, and Java through personal projects,
+                      startup experience, and my current job.
                     </p>
                   </div>
                 </div>
